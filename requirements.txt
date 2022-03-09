@@ -1,0 +1,9 @@
+certifi==2020.6.20
+click==8.0.3
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+Flask @ file:///tmp/build/80754af9/flask_1634118196080/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
+MarkupSafe @ file:///C:/ci/markupsafe_1621528313524/work
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+wincertstore==0.2
